@@ -1,0 +1,15 @@
+{
+  "name": "resume-site",
+  "version": "1.0.0",
+  "description": "landing page for resume projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/MAX-P0W3R/resume_site"
+  },
+  "author": "brad turner",
+  "license": "ISC"
+}
