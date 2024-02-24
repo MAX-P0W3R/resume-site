@@ -11,5 +11,8 @@
     "url": "www.github.com/MAX-P0W3R/resume_site"
   },
   "author": "brad turner",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
 }
